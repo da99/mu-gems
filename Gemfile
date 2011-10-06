@@ -1,4 +1,4 @@
 
 source :rubygems
 
-gem 'geminabox'
+gem 'OSer'
