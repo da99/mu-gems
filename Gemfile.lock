@@ -1,15 +1,10 @@
-GIT
-  remote: git@gitorious.org:mu-gems/gemfy.git
-  revision: 5da17b4792f7256ec21be3e9df419acb1cbb9b36
-  specs:
-    Gemfy (0.1.2)
-
 GEM
   remote: http://rubygems.org/
   specs:
+    Gemfy (0.1.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  Gemfy!
+  Gemfy
