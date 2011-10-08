@@ -4,6 +4,5 @@
 
 source :rubygems
 
-gem 'rake'
-# gem 'Gemfy', :git => 'git://gitorious.org/mu-gems/gemfy.git'
-# gem 'Gemfy', :path => '/home/da01/MyLife/apps/GEMS/Gemfy'
+gem 'Git_Repo', :git => 'git://gitorious.org/mu-gems/git_repo.git'
+
