@@ -1,10 +1,15 @@
+GIT
+  remote: git://gitorious.org/mu-gems/git_repo.git
+  revision: e7fbc6a7141fb1574fe720e8e8ac6c8cf8a05c40
+  specs:
+    Git_Repo (0.0.2)
+
 GEM
   remote: http://rubygems.org/
   specs:
-    rake (0.9.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  rake
+  Git_Repo!
